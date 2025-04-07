@@ -1,14 +1,10 @@
 # 👋 Привет, я Никита!
 
----
-
 <div align="center">
  <img  width="850" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif"/>
 </div>
 
 ## 🤝 Контакты
-
----
 
 <div align="center">
 
@@ -19,13 +15,9 @@
 
 ## 🚀 Обо мне
 
----
-
 Я frontend-разработчик. Мой путь в IT начался в университете, но по-настоящему я погрузился в разработку, когда полностью посвятил себя самообучению.
 
 ## 🛠️ Мой подход к разработке
-
----
 
 * 🏗️ Архитектура & Структура -- Feature-Sliced Design (FSD)
 * 🛡️ TypeScript как основа
@@ -50,8 +42,6 @@
 
 ## 📚 Образование и курсы
 
----
-
 ### 🎓 Основное обучение
 + 2016-2019 | МТУ (МИРЭА) ! Информационные системы и технологии (**неоконченное**)
 
@@ -74,8 +64,6 @@
 
 ## 🛠️ Технологический стек
 
----
-
 ### Основные технологии:
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -94,8 +82,6 @@
 ![Chromatic](https://img.shields.io/badge/-Chromatic-F24E1E?logo=chromatic&logoColor=white)
 
 ## 🏆 Ключевые проекты
-
----
 
 ### 🚂 Система бронирования ж/д билетов
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=FallenLuc&repo=RailwayTicketBookingSystem)](https://github.com/FallenLuc/RailwayTicketBookingSystem)
@@ -123,7 +109,6 @@
 
 ## 📈 Активность
 
----
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FallenLuc&layout=normal)](https://github.com/FallenLuc)
