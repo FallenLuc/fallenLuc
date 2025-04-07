@@ -12,8 +12,9 @@
 ---
 
 ## 🚀 Обо мне
-
- <img  width="500" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif"/>
+<div align="center">
+ <img  width="850" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif"/>
+</div>
 
 Я frontend-разработчик. Мой путь в IT начался в университете, но по-настоящему я погрузился в разработку, когда полностью посвятил себя самообучению.
 
@@ -37,10 +38,10 @@
   - Автоматический линтинг (ESLint/Stylelint);
   - Форматирование - это важно (Prettier);
 
-## Профессиональный опыт:
+## 💼 Опыт работы:
 С 2019 года работаю в Т-банке, c 2023 года разрабатываю сценарии для инвестиционных ботов как для звонков, так и для чатов.
 
-## 📚 Образование и курсы**
+## 📚 Образование и курсы
 
 ### 🎓 Основное обучение
 + 2016-2019 | МТУ (МИРЭА) ! Информационные системы и технологии (**неоконченное**)
@@ -89,7 +90,7 @@
 ### 🚂 Система бронирования ж/д билетов
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=FallenLuc&repo=RailwayTicketBookingSystem)](https://github.com/FallenLuc/RailwayTicketBookingSystem)
 
-**Стек**: React • TypeScript • Redux Toolkit • React Router • RTK Query • SCSS • Chromatic
+**Стек**: React • React Router • Redux Toolkit • RTK Query • TypeScript • SCSS • Chromatic • Storybook • Webpack • FSD
 
 **Особенности**:
 - Поиск маршрутов с фильтрами
@@ -100,7 +101,7 @@
 ### 📝 Платформа для блогинга
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=FallenLuc&repo=Advanced-Frontend-Project)](https://github.com/FallenLuc/Advanced-Frontend-Project)
 
-**Стек**: React • React Router • RTK Query • TypeScript • FSD • i18n • Storybook • Chromatic
+**Стек**: React • React Router • Redux Toolkit • RTK Query • TypeScript • SCSS • Chromatic • Storybook • i18n • Webpack • FSD
 
 **Особенности**:
 - Поиск статей
@@ -111,5 +112,4 @@
 - Несколько цветовых тем
 
 ## 📈 Активность
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FallenLuc&layout=normal)](https://github.com/FallenLuc)
