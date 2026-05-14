@@ -50,7 +50,7 @@
 Коммерческий проект (админ-панель). С нуля выстроил архитектуру фронтенда по методологии Feature-Sliced Design, разработал кастомизируемый UI-кит и ключевые продуктовые механики — Process Validation и Change Tracker. Перевёл слой работы с API на Redux Toolkit Query, настроил инфраструктуру проекта (Vite, ESLint, Stylelint, Prettier, Husky, lint-staged), участвовал в настройке CI/CD на Jenkins и Docker. Внедрил юнит-тестирование на Jest + RTL и мониторинг через Grafana и GlitchTip. Курирую двух junior-разработчиков на код-ревью, участвую в планировании и проектировании общих доменных сущностей в связке с бэкендом.
 
 ### 🏦 Т-Банк — Ведущий разработчик (май 2023 — сейчас)
-Развиваю голосового и чат-бота для инвестиций. Проектирую сценарии, пишу и интегрирую промпты с GPT, разрабатываю на JavaScript связку внутренних систем с API. Запускаю A/B-тесты гипотез, веду техническую документацию, провожу тех-микрофоны. Работаю в agile: daily, спринты, планирования, Jira.
+Развиваю голосового и чат-бота для инвестиций. Разрабатываю backend-фичи бота на Python и связку внутренних систем с API на JavaScript. Проектирую сценарии, пишу и интегрирую промпты с GPT, запускаю A/B-тесты гипотез. Веду техническую документацию, провожу тех-микрофоны. Работаю в agile: daily, спринты, планирования, Jira.
 
 ## 📚 Образование и курсы
 
@@ -104,11 +104,13 @@
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=black)
 ![i18next](https://img.shields.io/badge/-i18next-26A69A?logo=i18next&logoColor=white)
 ![Chromatic](https://img.shields.io/badge/-Chromatic-F24E1E?logo=chromatic&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ## 🏆 Ключевые pet-проекты
 
 ### 🚂 Система бронирования ж/д билетов
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=FallenLuc&repo=RailwayTicketBookingSystem)](https://github.com/FallenLuc/RailwayTicketBookingSystem)
+
+[<img src="./assets/railway-card.svg" alt="Railway Booking" width="450"/>](https://github.com/FallenLuc/RailwayTicketBookingSystem)
 
 **Стек**: React • React Router • Redux Toolkit • RTK Query • TypeScript • SCSS • Chromatic • Storybook • Webpack • FSD
 
@@ -119,7 +121,8 @@
 - Работа с внешним API
 
 ### 📝 Платформа для блогинга
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=FallenLuc&repo=Advanced-Frontend-Project)](https://github.com/FallenLuc/Advanced-Frontend-Project)
+
+[<img src="./assets/blog-card.svg" alt="Blog Platform" width="450"/>](https://github.com/FallenLuc/Advanced-Frontend-Project)
 
 **Стек**: React • React Router • Redux Toolkit • RTK Query • TypeScript • SCSS • Chromatic • Storybook • i18n • Webpack • FSD
 
@@ -131,10 +134,10 @@
 - Работа с внешним API
 - Несколько цветовых тем
 
-## 📈 Активность
+## ⚡ Основные направления
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FallenLuc&layout=normal)](https://github.com/FallenLuc)
+<img src="./assets/stack-summary.svg" alt="Stack Summary" width="920"/>
 
 </div>
