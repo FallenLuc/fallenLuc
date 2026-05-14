@@ -1,1 +1,48 @@
-
+<svg width="920" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a1b27;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#2d3748;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a1b27;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="920" height="200" rx="14" fill="url(#bg3)" stroke="#61DAFB" stroke-width="1.5"/>
+  
+  <text x="460" y="38" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="20" font-weight="700" fill="#61DAFB">
+    ⚡ Основные направления
+  </text>
+  
+  <line x1="40" y1="55" x2="880" y2="55" stroke="#4a5568" stroke-width="1"/>
+  
+  <g font-family="Segoe UI, sans-serif">
+    <text x="80" y="92" text-anchor="middle" font-size="34">🏗️</text>
+    <text x="80" y="125" text-anchor="middle" font-size="13" font-weight="600" fill="#e2e8f0">Архитектура</text>
+    <text x="80" y="143" text-anchor="middle" font-size="11" fill="#a0aec0">FSD, SOLID</text>
+    <text x="80" y="159" text-anchor="middle" font-size="11" fill="#a0aec0">Доменные сущности</text>
+    
+    <text x="240" y="92" text-anchor="middle" font-size="34">⚛️</text>
+    <text x="240" y="125" text-anchor="middle" font-size="13" font-weight="600" fill="#e2e8f0">Frontend</text>
+    <text x="240" y="143" text-anchor="middle" font-size="11" fill="#a0aec0">React + TypeScript</text>
+    <text x="240" y="159" text-anchor="middle" font-size="11" fill="#a0aec0">Redux Toolkit, RTK Query</text>
+    
+    <text x="400" y="92" text-anchor="middle" font-size="34">🧪</text>
+    <text x="400" y="125" text-anchor="middle" font-size="13" font-weight="600" fill="#e2e8f0">Тестирование</text>
+    <text x="400" y="143" text-anchor="middle" font-size="11" fill="#a0aec0">Jest, RTL</text>
+    <text x="400" y="159" text-anchor="middle" font-size="11" fill="#a0aec0">Storybook, Chromatic</text>
+    
+    <text x="560" y="92" text-anchor="middle" font-size="34">🚀</text>
+    <text x="560" y="125" text-anchor="middle" font-size="13" font-weight="600" fill="#e2e8f0">DevOps</text>
+    <text x="560" y="143" text-anchor="middle" font-size="11" fill="#a0aec0">Jenkins, Docker</text>
+    <text x="560" y="159" text-anchor="middle" font-size="11" fill="#a0aec0">CI/CD, Vite</text>
+    
+    <text x="720" y="92" text-anchor="middle" font-size="34">📊</text>
+    <text x="720" y="125" text-anchor="middle" font-size="13" font-weight="600" fill="#e2e8f0">Мониторинг</text>
+    <text x="720" y="143" text-anchor="middle" font-size="11" fill="#a0aec0">Grafana</text>
+    <text x="720" y="159" text-anchor="middle" font-size="11" fill="#a0aec0">GlitchTip</text>
+    
+    <text x="855" y="92" text-anchor="middle" font-size="34">👥</text>
+    <text x="855" y="125" text-anchor="middle" font-size="13" font-weight="600" fill="#e2e8f0">Менторство</text>
+    <text x="855" y="143" text-anchor="middle" font-size="11" fill="#a0aec0">Code Review</text>
+    <text x="855" y="159" text-anchor="middle" font-size="11" fill="#a0aec0">2 junior dev</text>
+  </g>
+</svg>
